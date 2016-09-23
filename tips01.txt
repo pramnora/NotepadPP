@@ -1,0 +1,54 @@
+File created: 23SEP16 20:22 PM GMT
+File updated: 23SEP16 20:22 PM GMT
+----------------------------------
+Updated my Notepad++ editor software online, today.
+Latest Version: v6.9.2
+----------------------------------
+Keyboard shortcuts... 
+CTRL + N = New tab (with numbers: Tab 2/Tab 3/-etc.)
+CTRL + W = Close tab
+CTRL + A = Select All
+CTRL + C = Copy
+CTRL + V = Paste
+CTRL + Z = Undo
+Del key = Delete 1 character/or, all selected characters
+----------------------------------
+Encoding methods...
+
+Encoding Method (1):
+Plaintext:  
+This is a secret message.
+...use CTRL + A to Select ALL...
+Plugins > Mime Tools > Base64Encode
+Ciphertext: 
+VGhpcyBpcyBhIHNlY3JldCBtZXNzYWdlIQ==
+(choose option: Base64Decode to reverse encoding to reveal the plaintext, again)
+
+Encoding Method (2):
+Plaintext: 
+This is a secret message.
+...use CTRL + A to Select ALL...
+Plugins > Converter > ASCII to Hex
+Ciphertext:
+54686973206973206120736563726574
+206D65737361676521
+(choose option: Hex to ASCII to reverse the encoding to reveal the plaintext, again)
+
+Encoding Method (3):
+Plugins > Converter > Conversion Panel
+Allows you to convert 1 x ASCII character at a time simultaneously into becoming: 
+Decimal/Hexadecimal/Binary/Octadecimal
+----------------------------------
+Create text file > Save as (.html)
+Plugins >  NPPExport > Export as HTML
+----------------------------------
+Find/download new plug ins...
+Plugins > Plugin Manager > Show Plugin Manager
+Choose 'Available' tab
+Select which new Plug you wish to install by ticking the box
+Next, click on the [Install] button.
+------------------------------------------------------
+NOTE: This file still to be further updated, later on.
+------------------------------------------------------
+
+
